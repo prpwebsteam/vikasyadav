@@ -393,6 +393,9 @@ main .project-image img:hover {
   .project-image {
     border-bottom: 1px solid #575656;
   }
+  .contact-wrapper {
+    padding: 5% 0;
+  }
   .contact-wrapper h1 {
     font-size: 29px;
   }
@@ -405,7 +408,7 @@ main .project-image img:hover {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 418px) {
   .image-info-box .info-box h4 {
     font-size: 15px;
   }

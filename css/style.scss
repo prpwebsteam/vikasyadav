@@ -313,6 +313,7 @@ main{
 }
 
 .contact-wrapper{
+    padding: 5% 0;
     h1{
         font-size: 29px;
     }
@@ -327,7 +328,7 @@ main{
 }
 }
 
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 418px){
     .image-info-box{
         .info-box{
             h4{
